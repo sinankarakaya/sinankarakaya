@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning React, Kotlin and Java
 - 📫 Contact me: sinankarakaya1992@gmail.com
 
-![sinankarakaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinankarakaya&show_icons=true&theme=radical)
+![sinankarakaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinankarakaya&show_icons=true&theme=calm)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinankarakaya&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinankarakaya&show_icons=true&theme=calm)
